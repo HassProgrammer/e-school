@@ -1,0 +1,133 @@
+section{
+    margin-bottom: 70px;
+}
+.navbar-bandr img{
+    width: 18%;
+    
+}
+.navbar-bandr{
+
+   
+}
+.lst img{
+    width: 100%;
+}
+.bannar{
+    background: linear-gradient(rgba(240, 255, 240, 1),rgba(243, 253, 243, 1));
+}
+.bannar p{
+    color: #6c6b6b;
+}
+.ban-con{
+    margin-left: 100px;
+}
+.btn{
+    border-radius: 30px;
+    padding: 8px 20px;
+}
+.lef{
+    margin-top: 100px;
+}
+.second img{
+    width: 50%;
+}
+.col-md-3{
+    margin-bottom: 40px;
+}
+.first{
+    background: #f8fffb; 
+}
+.first h3{
+    margin-top: 40px;
+}
+.first img{
+    width: 30%;
+    margin-top: 25px;
+
+}
+.ditio img{
+    width: 35%;
+    margin-top: 10%;
+}
+.ditio .inner{
+    background-color: white;
+    box-shadow: 10px 50px #0000 ;
+}
+.ditio h3{
+    margin-top: 40px;
+}
+.tritio img{
+    width: 35%;
+    margin-top: 13%;
+}
+.tritio{
+    background: #f8fffb;
+}
+.tritio h3{
+    margin-top: 40px;
+}
+.coturtho{
+    background: #f8fffb;
+}
+.coturtho img{
+    width: 35%;
+    margin-top: 13%;
+}
+.coturtho h3{
+    margin-top: 40px;
+}
+.second h5{
+    color: #6c6b6b;
+}
+.sec-card p{
+    color: #6c6b6b;
+}
+ .card-button{
+     padding: 5px 30px;
+ }
+ .left-end img{
+     width: 20px;
+ }
+ .last-end{
+     margin-left: 70px;
+ }
+.button-last{
+    margin-bottom: 50px;
+}
+.las{
+    margin-bottom: -20px;
+}
+.last-jamela{
+    margin-top: -60px;
+}
+.testimonial img{
+    width: 50%;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+.testimonial .col-md-8 p{
+    margin-left: 30px;
+    margin-top: 48px;
+    line-height:2.1;
+   
+}
+.testimonial h1{
+    margin-bottom: 30px;
+}
+.footer{
+    background-color: #282531;
+   padding: 100px;
+   margin-bottom: -10px;
+}
+footer{
+    margin-top: 50px;
+    margin-bottom: -80px;
+}
+.btn a{
+    text-decoration: none;
+    color:white;
+}
+.bannar{
+    padding-bottom: 60px;
+}  
+

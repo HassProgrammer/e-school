@@ -1,0 +1,9 @@
+.form-sec{
+    background: linear-gradient(rgba(240, 255, 240, 1),rgba(243, 253, 243, 1));
+    height: 500px;
+    
+}
+form{
+    margin-top: 100px;
+    padding-bottom: 90px;
+}
